@@ -1,0 +1,5 @@
+Change component parameters: Designator = "R84" ("R84"); Footprint = "RES-SM-0603"; UniqueID = "\IWPMVFDN" ("\IWPMVFDN")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R85" ("R85"); Footprint = "RES-SM-0603"; UniqueID = "\AEJURUXB" ("\AEJURUXB")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Room: Name=ver2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC36_2 Pin=J13-1A
+Removed Pin From Net: NetName=NetC36_2 Pin=J13-1B
+Removed Member From Class: ClassName=Power Member=3V3
+Removed Member From Class: ClassName=Output Member=GND
+Change Component Footprint: Designator=J13 Old Footprint=CUI_PJ-002AH-SMT-TR New Footprint=DC050
+Change Component Comment : Designator=J13 Old Comment=PJ-002AH-SMT-TR New Comment=DC050
+Added Component: Designator=1(PIF LOGO SMALL TOP)
+Added Pin To Net: NetName=NetC36_2 Pin=J13-1
+Added Pin To Net: NetName=NetC36_2 Pin=J13-1

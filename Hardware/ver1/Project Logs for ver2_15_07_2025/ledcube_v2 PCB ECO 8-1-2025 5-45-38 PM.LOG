@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=ESP32 Member=GND
+Added Component: Designator=(PIF LOGO SMALL TOP)
+Added Member To Class: ClassName=Power Member=Component C44 10 µF, 16 V
+Added Member To Class: ClassName=ESP32 Member=Component D2 LED SMD
+Add Class Member: Failed to add class member : Component J2 61300811821
+Add Class Member: Failed to add class member : Component J6 B8B-XH-A
+Add Class Member: Failed to add class member : Component J7 B8B-XH-A
+Add Class Member: Failed to add class member : Component J11 B8B-XH-A
+Added Member To Class: ClassName=MCU Member=Component  LOGO PIF
+Add Class Member: Failed to add class member : Component U2 ESP32-WROOM-32E

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=NetC34_2 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=U13-1
+Removed Pin From Net: NetName=ESP_TXD Pin=U13-2
+Removed Pin From Net: NetName=ESP_RXD Pin=U13-3
+Removed Pin From Net: NetName=3V3 Pin=U13-4
+Removed Pin From Net: NetName=D+ Pin=U13-5
+Removed Pin From Net: NetName=D- Pin=U13-6
+Removed Pin From Net: NetName=DTR Pin=U13-13
+Removed Pin From Net: NetName=RTS Pin=U13-14
+Removed Pin From Net: NetName=5V Pin=U13-16
+Removed Pin From Net: NetName=NetC34_2 Pin=VR1-2
+Removed Pin From Net: NetName=NetC34_2 Pin=VR1-3
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=GND Pin=Y2-4
+Removed Member From Class: ClassName=ver2 Member=C36
+Removed Member From Class: ClassName=ver2 Member=C37
+Removed Member From Class: ClassName=ver2 Member=U13
+Removed Member From Class: ClassName=ver2 Member=VR1
+Removed Member From Class: ClassName=ver2 Member=Y2
+Added Component: Designator=R?(TRIM_TC33X-2-103E)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "TC33X-103ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TC33X-2-103E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-23 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TC33X-2-103E/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC127P600X180-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CH340C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CH340C/WCH/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=R80-1
+Added Pin To Net: NetName=NetIC1_3 Pin=R?-1
+Added Pin To Net: NetName=NetC34_2 Pin=R?-2
+Added Pin To Net: NetName=ESP_RXD Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=DTR Pin=U?-8
+Added Pin To Net: NetName=RTS Pin=U?-14
+Added Pin To Net: NetName=3V3 Pin=U?-16
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R?-3
+Added Net: Name=NetIC1_1
+Added Member To Class: ClassName=ver2 Member=Component R? TC33X-2-103E
+Added Member To Class: ClassName=ver2 Member=Component U? CH340C
+Added Room: Name=ver2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D6-1
+Change Footprint: Footprint Not Found LED_0805_Blue
+Change Footprint: Footprint Not Found LED_0805_Blue
+Change Component Comment : Designator=D5 Old Comment=Blue, 3.2V New Comment=LED SMD
+Change Component Comment : Designator=D6 Old Comment=Blue, 3.2V New Comment=LED SMD
+Change component parameters: Designator = "D5" ("D5"); Footprint = "WL-SMCW_0603_H=0.7mm"; UniqueID = "\YFAIKDVF" ("\YFAIKDVF")
+Change component parameters: Designator = "D6" ("D6"); Footprint = "WL-SMCW_0603_H=0.7mm"; UniqueID = "\FNCIHKXJ" ("\FNCIHKXJ")
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R88-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R90-1
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=Power Member=Component C44 10 µF, 16 V

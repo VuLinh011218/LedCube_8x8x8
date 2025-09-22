@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC36_2 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-G1
+Removed Pin From Net: NetName=GND Pin=SW1-G2
+Removed Pin From Net: NetName=GND Pin=SW1-G3
+Removed Pin From Net: NetName=GND Pin=SW1-G4
+Removed Member From Class: ClassName=Power Member=SW1
+Change Footprint: Footprint Not Found LED_0805_Blue
+Change Footprint: Footprint Not Found LED_0805_Blue
+Added Pin To Net: NetName=NetC36_2 Pin=J13-1A
+Added Pin To Net: NetName=NetC36_2 Pin=J13-1B

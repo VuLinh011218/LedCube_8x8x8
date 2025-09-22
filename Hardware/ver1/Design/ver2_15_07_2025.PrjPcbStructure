@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=ESP32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=Input.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=Output.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=Power.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=USB.SchDoc|SheetNumber=3

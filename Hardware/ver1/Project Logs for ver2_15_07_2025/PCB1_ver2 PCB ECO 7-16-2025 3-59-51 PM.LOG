@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found TRIM_TC33X-2-103E
+Add Component: Footprint Not Found SOIC127P600X180-16N
+Add Pin To Net: Unknown Pin: Pin R88-1
+Add Pin To Net: Unknown Pin: Pin R88-2
+Add Pin To Net: Unknown Pin: Pin R88-3
+Add Pin To Net: Unknown Pin: Pin U13-6
+Add Pin To Net: Unknown Pin: Pin U13-7
+Add Pin To Net: Unknown Pin: Pin U13-8
+Add Pin To Net: Unknown Pin: Pin U13-14
+Add Pin To Net: Unknown Pin: Pin U13-16
+Add Class Member: Failed to add class member : Component R88 TC33X-2-103E
+Add Class Member: Failed to add class member : Component U13 CH340C

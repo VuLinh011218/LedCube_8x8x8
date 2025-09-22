@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=IN0 Pin=C29-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=IC1-3
+Removed Pin From Net: NetName=RTS Pin=Q9-1
+Removed Pin From Net: NetName=ESP_EN Pin=Q9-2
+Removed Pin From Net: NetName=DTR Pin=Q10-1
+Removed Pin From Net: NetName=ESP_BOOT Pin=Q10-2
+Removed Pin From Net: NetName=5V Pin=R78-2
+Removed Pin From Net: NetName=5V Pin=R79-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R79-2
+Removed Pin From Net: NetName=NetIC1_2 Pin=R80-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R82-1
+Removed Pin From Net: NetName=GND Pin=R82-2
+Removed Pin From Net: NetName=ESP_TXD Pin=U12-2
+Removed Pin From Net: NetName=ESP_RXD Pin=U12-3
+Change Component Footprint: Designator=R78 Old Footprint=RES-SM-0603 New Footprint=TRIM_TC33X-2-103E
+Change Component Footprint: Designator=Q9 Old Footprint=SOT23B New Footprint=SOT-23
+Change Component Footprint: Designator=Q10 Old Footprint=SOT23B New Footprint=SOT-23
+Change Component Footprint: Designator=R80 Old Footprint=TRIM_TC33X-2-103E New Footprint=RES-SM-0603
+Change Component Comment : Designator=Q9 Old Comment=C1815 New Comment=BC817
+Change Component Comment : Designator=Q10 Old Comment=C1815 New Comment=BC817
+Change Component Comment : Designator=R78 Old Comment=RESISTOR SMD New Comment=TC33X-2-103E
+Change Component Comment : Designator=R80 Old Comment=TC33X-2-103E New Comment=RESISTOR SMD
+Change Component Designator: OldDesignator=C31 NewDesignator=C29
+Change Component Designator: OldDesignator=C32 NewDesignator=C30
+Change Component Designator: OldDesignator=C33 NewDesignator=C31
+Change Component Designator: OldDesignator=C34 NewDesignator=C32
+Change Component Designator: OldDesignator=C35 NewDesignator=C33
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=R61 NewDesignator=R65
+Change Component Designator: OldDesignator=R62 NewDesignator=R61
+Change Component Designator: OldDesignator=R63 NewDesignator=R62
+Change Component Designator: OldDesignator=R64 NewDesignator=R63
+Change Component Designator: OldDesignator=R65 NewDesignator=R64
+Change Component Designator: OldDesignator=R83 NewDesignator=R87
+Change Component Designator: OldDesignator=R84 NewDesignator=R88
+Change Component Designator: OldDesignator=R85 NewDesignator=R82
+Change Component Designator: OldDesignator=R86 NewDesignator=R85
+Change Component Designator: OldDesignator=R87 NewDesignator=R89
+Change Component Designator: OldDesignator=R88 NewDesignator=R90
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "SOT23B"; UniqueID = "\WDCVSFVL" ("\WDCVSFVL")
+Change component parameters (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "SOT23B"; UniqueID = "\IXZIYQEW" ("\IXZIYQEW")
+Change component parameters (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R78" ("R78"); Footprint = "RES-SM-0603"; UniqueID = "\NXBQWCKH" ("\NXBQWCKH")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "TC33X-103ECT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TC33X-2-103E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-23 Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TC33X-2-103E/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TC33X-2-103E/Bourns/view-part/47092/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R79" ("R79"); Footprint = "RES-SM-0603"; UniqueID = "\WODXZHWF" ("\WODXZHWF")
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R80" ("R80"); Footprint = "TRIM_TC33X-2-103E"; UniqueID = "\LUCQZWUF" ("\LUCQZWUF")
+Change component parameters (AddParameter): Name = "Value"; Value = "49K"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R83(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R84(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R86(RES-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN0 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=IN0 Pin=IC1-1
+Added Pin To Net: NetName=RTS Pin=Q9-2
+Added Pin To Net: NetName=ESP_EN Pin=Q9-3
+Added Pin To Net: NetName=DTR Pin=Q10-2
+Added Pin To Net: NetName=ESP_BOOT Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=R79-2
+Added Pin To Net: NetName=IN0 Pin=R80-1
+Added Pin To Net: NetName=NetIC1_2 Pin=R80-2
+Added Pin To Net: NetName=5V Pin=R83-1
+Added Pin To Net: NetName=GND Pin=R86-2
+Added Pin To Net: NetName=ESP_RXD Pin=U12-2
+Added Pin To Net: NetName=ESP_TXD Pin=U12-3
+Change Net Name : Old Net Name=NetR62_2 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetR63_2 New Net Name=NetR62_2
+Change Net Name : Old Net Name=NetR64_2 New Net Name=NetR63_2
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR64_2
+Change Net Name : Old Net Name=NetR83_1 New Net Name=NetR87_1
+Change Net Name : Old Net Name=NetR84_1 New Net Name=NetR88_1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=R79-1
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R81-2
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=IC1-3
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=R84-1
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetLS1_P Pin=LS1-P
+Added Pin To Net: NetName=NetLS1_P Pin=R84-2
+Added Net: Name=NetLS1_P
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R82-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R85-2
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetR83_2 Pin=R83-2
+Added Pin To Net: NetName=NetR83_2 Pin=R86-1
+Added Net: Name=NetR83_2
+Added Member To Class: ClassName=ver2 Member=Component C38 Cap Non-Pol SMD
+Added Member To Class: ClassName=ver2 Member=Component R89 RESISTOR SMD
+Added Member To Class: ClassName=ver2 Member=Component R90 RESISTOR SMD

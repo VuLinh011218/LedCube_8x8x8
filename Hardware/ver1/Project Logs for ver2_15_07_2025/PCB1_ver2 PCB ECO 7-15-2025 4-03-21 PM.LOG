@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R2 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R3 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R4 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R6 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R8 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R10 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R12 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R14 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R16 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R18 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R20 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R23 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R38 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R43 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R56 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R65 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Change Component Footprint: Designator=R77 Old Footprint=RES-SM-0805 New Footprint=RES-SM-0603
+Added Room: Name=ver2

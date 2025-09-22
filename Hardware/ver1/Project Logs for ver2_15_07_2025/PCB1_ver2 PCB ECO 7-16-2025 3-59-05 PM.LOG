@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=NetC34_2 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=U13-1
+Removed Pin From Net: NetName=ESP_TXD Pin=U13-2
+Removed Pin From Net: NetName=ESP_RXD Pin=U13-3
+Removed Pin From Net: NetName=3V3 Pin=U13-4
+Removed Pin From Net: NetName=D+ Pin=U13-5
+Removed Pin From Net: NetName=D- Pin=U13-6
+Removed Pin From Net: NetName=DTR Pin=U13-13
+Removed Pin From Net: NetName=RTS Pin=U13-14
+Removed Pin From Net: NetName=5V Pin=U13-16
+Removed Pin From Net: NetName=NetC34_2 Pin=VR1-2
+Removed Pin From Net: NetName=NetC34_2 Pin=VR1-3
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=GND Pin=Y2-4
+Removed Member From Class: ClassName=ver2 Member=C36
+Removed Member From Class: ClassName=ver2 Member=C37
+Removed Member From Class: ClassName=ver2 Member=U13
+Removed Member From Class: ClassName=ver2 Member=VR1
+Removed Member From Class: ClassName=ver2 Member=Y2
+Add Component: Footprint Not Found TRIM_TC33X-2-103E
+Add Component: Footprint Not Found SOIC127P600X180-16N
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_3 Pin=R80-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-14
+Add Pin To Net: Unknown Pin: Pin U?-16
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Net: Name=NetIC1_1
+Add Class Member: Failed to add class member : Component R? TC33X-2-103E
+Add Class Member: Failed to add class member : Component U? CH340C

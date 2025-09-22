@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=Input Member=C40
+Removed Member From Class: ClassName=Input Member=C42
+Removed Member From Class: ClassName=Input Member=C45
+Removed Member From Class: ClassName=Input Member=C47
+Added Component: Designator=J8(JST_B8B-XH-A)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B8B-XH-A/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B8B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B8B-XH-A/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_4 Pin=J8-4
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-5
+Added Pin To Net: NetName=NetJ8_6 Pin=J8-6
+Added Pin To Net: NetName=NetJ8_7 Pin=J8-7
+Added Pin To Net: NetName=NetJ8_8 Pin=J8-8
+Added Member To Class: ClassName=Input Member=Component C32 100 nF, 50 VDC
+Added Member To Class: ClassName=Input Member=Component C33 1 uF, 16 VDC
+Added Member To Class: ClassName=Input Member=Component C34 100 nF, 50 VDC
+Added Member To Class: ClassName=Input Member=Component C35 1 uF, 16 VDC
+Added Member To Class: ClassName=Power Member=Component C36 10 µF, 16 V
+Added Member To Class: ClassName=Power Member=Component C37 10 µF, 16 V
+Added Member To Class: ClassName=Power Member=Component C38 10 µF, 16 V
+Added Member To Class: ClassName=Power Member=Component C39 10 µF, 16 V
+Added Member To Class: ClassName=Power Member=Component C41 10 µF, 16 V
+Added Member To Class: ClassName=Power Member=Component C43 1 uF, 16 VDC
+Added Member To Class: ClassName=Power Member=Component C44 100 nF, 50 VDC
+Added Member To Class: ClassName=Output Member=Component J8 B8B-XH-A

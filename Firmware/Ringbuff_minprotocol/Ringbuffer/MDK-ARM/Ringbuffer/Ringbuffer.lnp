@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"ringbuffer\startup_stm32f103xb.o"
+"ringbuffer\main.o"
+"ringbuffer\stm32f1xx_it.o"
+"ringbuffer\stm32f1xx_hal_msp.o"
+"ringbuffer\stm32f1xx_hal_gpio_ex.o"
+"ringbuffer\stm32f1xx_hal_tim.o"
+"ringbuffer\stm32f1xx_hal_tim_ex.o"
+"ringbuffer\stm32f1xx_hal_uart.o"
+"ringbuffer\stm32f1xx_hal.o"
+"ringbuffer\stm32f1xx_hal_rcc.o"
+"ringbuffer\stm32f1xx_hal_rcc_ex.o"
+"ringbuffer\stm32f1xx_hal_gpio.o"
+"ringbuffer\stm32f1xx_hal_dma.o"
+"ringbuffer\stm32f1xx_hal_cortex.o"
+"ringbuffer\stm32f1xx_hal_pwr.o"
+"ringbuffer\stm32f1xx_hal_flash.o"
+"ringbuffer\stm32f1xx_hal_flash_ex.o"
+"ringbuffer\stm32f1xx_hal_exti.o"
+"ringbuffer\system_stm32f1xx.o"
+"ringbuffer\ringbuffer.o"
+"ringbuffer\min.o"
+"ringbuffer\uart.o"
+"ringbuffer\uart_test.o"
+--strict --scatter "Ringbuffer\Ringbuffer.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Ringbuffer.map" -o Ringbuffer\Ringbuffer.axf
